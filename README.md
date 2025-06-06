@@ -14,4 +14,4 @@
    pip install -r requirements.txt
 
 5. Run the app:
-   python app.py
+   python manage.py runserver
